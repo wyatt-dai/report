@@ -20,7 +20,7 @@ rustlings训练        &emsp; &emsp;        进度：已完成
 	autoSave=true
 	/vscode-markdown-toc-config -->
 <!-- /vscode-markdown-toc -->
-##  1. <a name='day1></a>day1（2023.7.3）
+##  1. <a name='day1'></a>day1（2023.7.3）
 学习github rustcourse，整理笔记至生命周期  
 《深入理解计算机系统》学习至第二章的整数运算  
 ##  2. <a name='day2'></a>day2（2023.7.4）
