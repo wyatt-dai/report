@@ -2,9 +2,9 @@
 暑期训练&实习
 ------------------------------
 本周计划：  
-rustlings训练&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;进度：已完成  
+rustlings训练&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;进度：已完成  
 《深入理解计算机系统》学习&emsp;&emsp;进度：第二章  
- rust 笔记整理&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;进度：生命周期  
+ rust 笔记整理&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;进度：生命周期  
 ------------------------------  
 <!-- vscode-markdown-toc -->
 * 1. [day1（2023.7.3）](#day12023.7.3)
