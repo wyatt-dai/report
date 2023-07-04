@@ -2,13 +2,13 @@
 暑期训练&实习
 ------------------------------
 本周计划：  
-rustlings训练                       进度：已完成  
+rustlings训练                        进度：已完成  
 《深入理解计算机系统》学习            进度：第二章  
  rust 笔记整理                       进度：生命周期  
 ------------------------------  
 <!-- vscode-markdown-toc -->
-* 1. [day1](#day12023.7.3)
-* 2. [day2](#day22023.7.4)
+* 1. [day1（2023.7.3）](#day12023.7.3)
+* 2. [day2（2023.7.4）](#day22023.7.4)
 <!-- vscode-markdown-toc-config
 	numbering=true
 	autoSave=true
