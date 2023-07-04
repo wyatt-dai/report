@@ -15,8 +15,9 @@ rustlings训练&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;进度：�
 	/vscode-markdown-toc-config -->
 <!-- /vscode-markdown-toc -->
 ##  1. <a name='day12023.7.3'></a>day1（2023.7.3）
-学习github上rust圣经，整理笔记至_生命周期_ ；  
+学习github上rust圣经，整理笔记至生命周期 ；  
 视频学习《深入理解计算机系统》至第二章的整数运算  
 ##  2. <a name='day22023.7.4'></a>day2（2023.7.4）
-计划：《深入理解计算机系统》完成第四章学习
+视频学习记不太住，看电子书重新学习完成第三章；  
+通过对String的可变引用，相关函数和方法的代码分析，巩固rust所有权知识，还未完成
 
