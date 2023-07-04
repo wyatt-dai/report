@@ -7,8 +7,8 @@ rustlings训练        &emsp; &emsp;        进度：已完成
  rust 笔记整理         &emsp; &emsp;    进度：生命周期  
 ------------------------------  
 <!-- vscode-markdown-toc -->
-* 1. [day1](#day12023.7.3)
-* 2. [day2](#day22023.7.4)
+* 1. [day1（2023.7.3）](#day1)
+* 2. [day2（2023.7.4）](#day2)
 * 3. [day3](#day3)
 * 4. [day4](#day4)
 * 5. [day5](#day5)
@@ -20,10 +20,10 @@ rustlings训练        &emsp; &emsp;        进度：已完成
 	autoSave=true
 	/vscode-markdown-toc-config -->
 <!-- /vscode-markdown-toc -->
-##  1. <a name='day12023.7.3'></a>day1（2023.7.3）
+##  1. <a name='day1></a>day1（2023.7.3）
 学习github rustcourse，整理笔记至生命周期  
 《深入理解计算机系统》学习至第二章的整数运算  
-##  2. <a name='day22023.7.4'></a>day2（2023.7.）
+##  2. <a name='day2'></a>day2（2023.7.4）
 计划：《深入理解计算机系统》完成第四章学习
 ##  3. <a name='day3'></a>day3
 计划：《深入理解计算机系统》完成第六章学习
