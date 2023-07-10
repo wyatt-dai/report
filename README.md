@@ -13,6 +13,7 @@ rustlings训练&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;进度：�
 * 4. [day4（2023.7.6）](#day22023.7.6)
 * 5. [day5（2023.7.7）](#day22023.7.7)
 * 6. [day6（2023.7.8）](#day22023.7.8)
+* 7. [day7（2023.7.9）](#day22023.7.9)
 <!-- vscode-markdown-toc-config
 	numbering=true
 	autoSave=true
@@ -36,4 +37,5 @@ rustlings训练&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;进度：�
 完成第六章学习，第七章部分  
 ##  6. <a name='day22023.7.8'></a>day6（2023.7.8）
 完成第七，八章学习，复习整理完第七章。
-
+##  7. <a name='day22023.7.9'></a>day7（2023.7.9）
+复习，完成课后练习
