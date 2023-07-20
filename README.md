@@ -20,7 +20,7 @@ step 2
 * 13. [day13（2023.7.17）](#day22023.7.17)
 * 14. [day14（2023.7.18）](#day22023.7.18)
 * 15. [day15（2023.7.19）](#day22023.7.19)
-* 16. [day15（2023.7.20）](#day22023.7.20)
+* 16. [day16（2023.7.20）](#day22023.7.20)
 <!-- vscode-markdown-toc-config
 	numbering=true
 	autoSave=true
