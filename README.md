@@ -24,6 +24,7 @@ step 2
 * 17. [day16（2023.7.21）](#day22023.7.21)
 * 18. [day16（2023.7.24）](#day22023.7.24)
 * 19. [day16（2023.7.25）](#day22023.7.25)
+* 10. [day16（2023.7.26）](#day22023.7.26)
 <!-- vscode-markdown-toc-config
 	numbering=true
 	autoSave=true
@@ -75,4 +76,6 @@ step 2
 完成ostep 13-18学习
 ##  19. <a name='day22023.7.25'></a>day16（2023.7.25）
 完成ostep 19-22学习
+##  20. <a name='day22023.7.26'></a>day17（2023.7.26）
+学习rtb第四章
 
