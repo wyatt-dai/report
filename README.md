@@ -1,4 +1,18 @@
 # report
+寒假实习
+<!-- vscode-markdown-toc -->
+* 1. [day1（2024.1.23）](#day12024.1.23)
+
+<!-- vscode-markdown-toc-config
+	numbering=true
+	autoSave=true
+	/vscode-markdown-toc-config -->
+<!-- /vscode-markdown-toc -->
+##  1. <a name='day12024.1.23'></a>day1（2024.1.23）
+在windows上搭建qemu环境，执行arceos(暑期是在codespace完成的)
+复习rust，uart0使用
+
+
 暑期训练&实习
 ------------------------------
 本周计划：  
