@@ -10,7 +10,7 @@
 <!-- /vscode-markdown-toc -->
 ##  1. <a name='day12024.1.23'></a>day1（2024.1.23）
 在windows上搭建qemu环境，执行arceos(暑期是在codespace完成的)
-复习rust，uart0使用
+复习rust，完成rtb实验
 
 
 暑期训练&实习
